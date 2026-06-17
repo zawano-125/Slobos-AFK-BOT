@@ -8,8 +8,9 @@
   "server": {
     "ip": "zawano_125.aternos.me",
     "port": 20420,
-    "version": "1.21.1"
-    
+    "version": "1.26.20.4"
+
+
   },
   "position": {
     "enabled": true,
