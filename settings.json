@@ -8,7 +8,7 @@
   "server": {
     "ip": "zawano_125.aternos.me",
     "port": 20420,
-    "version": "1.26.20.4"
+    "version": "1.21.1"
 
 
   },
@@ -28,14 +28,14 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
 
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hi",
+        "let me afk",
+        "Im a afk bot"
       ]
     },
     "chat-log": true,
