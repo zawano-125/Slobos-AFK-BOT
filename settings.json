@@ -6,9 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "zawano_125.aternos.me",
+    "port": 20420,
+    "version": "1.26.20.4
+    "
   },
   "position": {
     "enabled": true,
@@ -26,7 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
+
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
